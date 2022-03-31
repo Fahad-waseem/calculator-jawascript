@@ -1,0 +1,44 @@
+.main{
+    border:  2px dashed rgb(91, 165, 42);
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+background-color: aqua;
+color: #200202;
+}
+.btn-c{
+    height: 20px;
+    width: 200px;
+    background-color: orangered;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.btn{
+color: rgb(1, 12, 12);
+background-color: chartreuse;
+width: 60px;
+margin: 1px;
+
+}
+#btn-x{
+width: 200px;
+color: rgb(19, 5, 32);
+background-color: cornflowerblue;
+}
+#btn-m{
+    width: 200px;
+color: rgb(19, 5, 32);
+background-color: cornflowerblue;
+}
+#btn-p{
+    width: 200px;
+color: rgb(19, 5, 32);
+background-color: cornflowerblue;
+}
+.halfBtn{
+    width: 97px;
+    background-color: darkgreen;
+}
